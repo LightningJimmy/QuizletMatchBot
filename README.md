@@ -1,8 +1,8 @@
-# QuizletMicromatchBot
+# Quizlet Micromatch Bot
 Bot for the new version of Quizlet Microscatter, Micromatch!
 <hr></hr>
-<h3>How to run</h3>
-<p>Go to the Quizlet Vocab Set, and make the window smaller so the Gravity Icon disappears. Then press Match, the link at the top of the page should end with "micromatch"</p>
+<h3>How to run:</h3>
+<p>Go to the Quizlet set you wish to use the bot on, and make the window smaller so the Gravity Icon disappears. Then press Match. The link at the top of the page should end with "micromatch"</p>
 <p>Copy all of this code:</p>
 <pre><code>$("button.UIButton.UIButton--hero").trigger("click");
 var terms = $("a.cell[data-type=term]"), definitions = $("a.cell[data-type=definition]");
