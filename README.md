@@ -24,3 +24,6 @@ function toEng(b) {
 };
 </code></pre>
 <p>Go to inspect element(F12 or Ctrl+Shift+I on Google Chrome) then Console. Paste all the code into the console and press enter.</p>
+
+<h4>Other Bots: </h4>
+<p>Gravity Bot: https://github.com/LightningJimmy/QuizletGravityBot</p>
